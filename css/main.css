@@ -31,7 +31,7 @@ body {
   bottom: 0;
 }
 
-.banner-title h2 {
+h2 {
   display: inline;
   font-size: 4rem;
   font-weight: bold;
@@ -39,7 +39,7 @@ body {
   background-color: rgba(0, 0, 0, .5);
 }
 
-.banner-label p {
+ p {
   font-style: italic;
   font-size: 2rem;
   display: inline-block;
