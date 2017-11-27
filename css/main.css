@@ -23,13 +23,13 @@ body {
 }
 
 .banner-head {
-  max-width: 52em;
+  max-width: 50em;
   width: 100%;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
-  padding: 1.5rem;
+  padding: 1.6rem;
   margin: 0;
 }
 
