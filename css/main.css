@@ -45,7 +45,6 @@ h2 {
 p {
   font-style: italic;
   font-size: 2rem;
-  display: inline-block;
-  padding-top: .8em;
+  padding-top: 1em;
   margin: 0;
 }
