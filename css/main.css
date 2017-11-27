@@ -39,6 +39,7 @@ h2 {
   font-weight: bold;
   color: white;
   background-color: rgba(0, 0, 0, .5);
+  margin-bottom: 0;
 }
 
 p {
