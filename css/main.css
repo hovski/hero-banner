@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -9,6 +9,7 @@ html {
 
 body {
   margin: 0;
+  fo
 }
 
 .banner {
@@ -39,7 +40,7 @@ h2 {
   background-color: rgba(0, 0, 0, .5);
 }
 
- p {
+p {
   font-style: italic;
   font-size: 2rem;
   display: inline-block;
