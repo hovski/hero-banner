@@ -7,14 +7,31 @@ html {
   box-sizing: inherit;
 }
 
+.banner {
+  position: relative;
+}
+
 .img-flex {
   display: block;
   width: 100%;
+}
+
+.banner-header {
+  height: 500px;
+  width: 50em;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 h2 {
   font-size: 4rem;
   font-weight: bold;
   color: white;
+  background-color: rgba(0, 0, 0, .5);
+}
 
+p {
+  font-style: italic;
+  font-size: 2rem;
 }
