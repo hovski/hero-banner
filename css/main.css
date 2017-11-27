@@ -7,8 +7,14 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .banner {
   position: relative;
+  height: 500px;
+  overflow: hidden;
 }
 
 .img-flex {
@@ -17,11 +23,12 @@ html {
 }
 
 .banner-header {
-  height: 500px;
-  width: 50em;
+  max-width: 50em;
+  width: 100%;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  bottom: 0;
 }
 
 h2 {
