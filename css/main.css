@@ -22,7 +22,7 @@ body {
   width: 100%;
 }
 
-.banner-header {
+.banner-head {
   max-width: 50em;
   width: 100%;
   position: absolute;
@@ -31,7 +31,7 @@ body {
   bottom: 0;
 }
 
-h2 {
+.banner-title h2 {
   display: inline;
   font-size: 4rem;
   font-weight: bold;
@@ -39,7 +39,7 @@ h2 {
   background-color: rgba(0, 0, 0, .5);
 }
 
-p {
+.banner-label p {
   font-style: italic;
   font-size: 2rem;
   display: inline-block;
