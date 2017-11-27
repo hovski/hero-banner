@@ -45,6 +45,6 @@ p {
   font-style: italic;
   font-size: 2rem;
   display: inline-block;
-  padding-top: 1em;
+  padding-top: .5em;
   margin: 0;
 }
